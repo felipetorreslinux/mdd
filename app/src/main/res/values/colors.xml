@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8000E9</color>
+    <color name="colorPrimaryLight">#358000E9</color>
+    <color name="colorPrimaryDark">#8000E9</color>
+    <color name="colorAccent">#000000</color>
+    <color name="background_color">#EDEDED</color>
+
+    <color name="gray">#E0E0E0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="pink">#E068EA</color>
+    <color name="dark_gray">#4a4a4a</color>
+    <color name="light_gray">#9b9b9b</color>
+    <color name="bar_color">#E068EA</color>
+
+    <color name="green_finalized">#7ED321</color>
+    <color name="red_canceled">#D0021B</color>
+    <color name="darker_gray">#c3c3c3</color>
+</resources>
